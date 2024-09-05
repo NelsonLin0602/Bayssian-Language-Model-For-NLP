@@ -57,7 +57,7 @@ $$
 To calculate the probability of the next character, the formula is:
 
 $$
-\text{arg max}_{a \in A} P(a|d_i) = \text{arg max}_{a \in A} P(a) \prod_{j \in N} P(d_i^j | a)
+arg max_{a ∈ A} P(a|d_i) = arg max_{a ∈ A} P(a) * Π_{j ∈ N} P(d_i^j | a)
 $$
 
 ## Experimental Design and Results
