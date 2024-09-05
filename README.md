@@ -1,4 +1,4 @@
-# Bayesian Language Model for NLP
+# Bayesian Language Model for NLP 使用貝氏定理手刻語言模型
 
 ## Overview
 
